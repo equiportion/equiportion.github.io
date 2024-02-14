@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "de.phsta.equiportion",
+        "sha256_cert_fingerprints": ["A5:C7:F4:5F:AF:62:1D:97:4C:21:C1:2D:8B:33:2B:DC:98:04:A7:62:59:8E:09:2B:5C:EF:5E:8D:9B:58:A4:69"]
+      }
+    }]
